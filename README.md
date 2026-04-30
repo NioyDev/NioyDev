@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jairo Sebastián 👋
+# ¡Hola! Soy Sebastián/NIOYDEV 👋
 
 **Lead Developer & Founder en Nexthezia Studios | Estudiante de Técnico en Sistemas de Computación**
 
