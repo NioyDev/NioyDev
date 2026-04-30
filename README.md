@@ -24,8 +24,8 @@ Soy un desarrollador de software de El Salvador apasionado por construir solucio
 
 ### 🚀 En qué estoy trabajando actualmente
 
-*   📱 **NetDrop:** Aplicación multiplataforma para transferir fotos entre móvil y PC usando WebSockets y escaneo QR.
-*   🌐 **Desarrollo Web y Plantillas:** Trabajando en `FlaskTemplate` y estructurando la presencia web y SEO para instituciones locales (como el proyecto INA).
+* 📱 **[NetDrop](https://github.com/NioyDev/NetDrop):** Aplicación multiplataforma para transferir fotos entre móvil y PC y scaneo QR en Python.
+* 🐍 **[Flask-All (FlaskTemplate)](https://github.com/Nexthezia/Flask-All):** Un boilerplate profesional para acelerar el desarrollo de aplicaciones web. Proporciona una base sólida, modular y escalable para proyectos en Python con soporte para SQL.
 
 ---
 
